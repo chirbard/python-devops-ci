@@ -45,10 +45,10 @@ jobs:
 
     - name: Compile to executable
       uses: Nuitka/Nuitka-Action@main
-        with:
-          nuitka-version: main
-          script-name: src/main.py
-          onefile: true
+      with:
+        nuitka-version: main
+        script-name: src/main.py
+        onefile: true
 
     - name: Upload Artifact
       uses: actions/upload-artifact@v3
