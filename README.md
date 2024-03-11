@@ -1,6 +1,6 @@
 ﻿# Python Unit Testing
 
-[![Unit-Tests](https://github.com/chirbard/python-unit-testing/actions/workflows/Unit-Tests.yml/badge.svg)](https://github.com/chirbard/python-unit-testing/actions/workflows/Unit-Tests.yml)
+[![Unit Tests](https://github.com/chirbard/python-unit-testing/actions/workflows/Unit-Tests.yml/badge.svg)](https://github.com/chirbard/python-unit-testing/actions/workflows/Unit-Tests.yml)
 [![Build-All-Platforms](https://github.com/chirbard/python-unit-testing/actions/workflows/Build-All-Platforms.yml/badge.svg)](https://github.com/chirbard/python-unit-testing/actions/workflows/Build-All-Platforms.yml)
 
 A simple example of python unit testing and building executables with Github Actions.
