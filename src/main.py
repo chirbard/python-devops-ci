@@ -1,2 +1,3 @@
-name = input('insert your name: ')
-print(f'hello {name}')
+def add(x, y):
+    return x + y
+
