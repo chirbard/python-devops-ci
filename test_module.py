@@ -13,4 +13,3 @@ class TestClass:
 
     def test_add_string(self):
         assert add ('Hello ', 'World') == 'Hello World'
-
